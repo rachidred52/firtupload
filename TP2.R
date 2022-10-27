@@ -71,4 +71,5 @@ resp
 
 getNodeSet(resp, "__NEXT_DATA__")
 
+library(rvest)
 
